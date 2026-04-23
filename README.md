@@ -1,1 +1,1 @@
-# terra-2tier-azure
+# Terra-2tier-azure
